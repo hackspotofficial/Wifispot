@@ -19,5 +19,9 @@
 
 **1. Clone the repository (or download ZIP):**
 ```bash
+pkg update && pkg upgrade -y
+pkg install php cloudflared -y
 git clone https://github.com/hackspotofficial/wifispot-tool.git
 cd wifispot-tool
+chmod +x main.sh
+bash main.sh
