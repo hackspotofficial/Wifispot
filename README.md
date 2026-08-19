@@ -24,10 +24,15 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install php cloudflared -y
-clone
-git clone https://github.com/hackspotofficial/wifispot-tool.git
+
+cloning
+
+git clone https://github.com/hackspotofficial/Wifispot.git
 cd wifispot-tool
+
+permissions
 chmod +x main.sh
+run
 bash main.sh
 
 **1. where is captured data(command):**
