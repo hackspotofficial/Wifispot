@@ -7,6 +7,9 @@
 ## 🚀 About The Tool
 **WiFi Spot** is an educational, terminal-based cybersecurity awareness simulator. It demonstrates how easily a fake WiFi login page (Phishing) can be created to capture credentials locally.
 
+<img width="720" height="643" alt="63613" src="https://github.com/user-attachments/assets/a1f58839-0c94-48a2-870d-8e63c678f518" />
+
+
 **Key Features:**
 - 🎨 **3 Premium Templates:** Free WiFi, Security Scanner, Connection Error.
 - 📡 **Live Terminal Capture:** See credentials flash in real-time on your terminal.
