@@ -1,11 +1,11 @@
-# 📶 WiFi Spot - Educational Security Lab
+# 📶 WiFi Spot - educational Security Lab
 
 > **Ethically Crafted by [HackSpot](https://github.com/hackspotofficial)**
 
 ---
 
 ## 🚀 About The Tool
-**WiFi Spot** is an educational, terminal-based cybersecurity awareness simulator. It demonstrates how easily a fake WiFi login page (Phishing) can be created to capture credentials locally.
+**WiFi Spot** is an educational, terminal-based cybersecurity awareness . It shows how easily a fake WiFi login page (Phishing) can be created to capture credentials locally.
 
 <img width="720" height="643" alt="63613" src="https://github.com/user-attachments/assets/a1f58839-0c94-48a2-870d-8e63c678f518" />
 
